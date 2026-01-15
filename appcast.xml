@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>ArtworkValidation</title>
+        <item>
+            <title>1.0</title>
+            <pubDate>Thu, 15 Jan 2026 16:55:23 +0800</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.4</sparkle:minimumSystemVersion>
+            <enclosure url="ArtworkValidation.zip" length="1975434" type="application/octet-stream" sparkle:edSignature="rDJmbT9XNuRgRjvCNJ/kt/nxGIdnUMEs2lI0xTG7w11I79U0DHPqsllSdVOPA/kqRDDIrS02Bzp6ZS5ZK1B5CQ=="/>
+        </item>
+    </channel>
+</rss>
